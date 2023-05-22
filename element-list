@@ -1,0 +1,17 @@
+smeen.application
+smeen.component
+smeen.component.code
+smeen.component.code.block.control
+smeen.component.code.block.event
+smeen.component.code.block.look
+smeen.component.code.block.meen
+smeen.component.code.block.movement
+smeen.component.code.block.operator.inputBoolean
+smeen.component.code.block.operator.inputDouble
+smeen.component.code.block.operator.inputString
+smeen.component.code.block.sensing
+smeen.component.code.block.variable
+smeen.global
+smeen.logic
+smeen.util
+smeen.views
